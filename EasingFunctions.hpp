@@ -55,8 +55,6 @@
  * float derivativeValue = derivativeFunc(0, 10, 0.67f);
  */
 
-using UnityEngine;
-
 class EasingFunction
 {
     #define NATURAL_LOG_OF_2 0.693147181f;
@@ -95,7 +93,7 @@ class EasingFunction
         EaseInOutBack,
         EaseInElastic,
         EaseOutElastic,
-        EaseInOutElastic,
+        EaseInOutElastic
     }
 
 private:
