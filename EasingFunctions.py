@@ -9,6 +9,7 @@ import math
 
 # Doc: https://wiki.facepunch.com/gmod/math.ease
 # And this: https://gist.github.com/laundmo/b224b1f4c8ef6ca5fe47e132c8deab56
+# Watch this: https://www.youtube.com/watch?v=tEFkHEKypLI
 
 class EasingFunction:
     """
