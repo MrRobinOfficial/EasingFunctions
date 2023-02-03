@@ -10,6 +10,7 @@
 <div align="center">
 
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mrrobinofficial/easing/blob/HEAD/LICENSE.txt)
+![maintenance-status](https://img.shields.io/badge/maintenance-as--is-yellow.svg)
 
 </div>
 
