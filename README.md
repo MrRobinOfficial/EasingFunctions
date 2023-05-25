@@ -3,9 +3,9 @@
   <a href="#" rel="noopener" target="_blank"><img width="150" src="resources/Tempy.png" alt="Tempy logo"></a>
 </p>
 
-<h1 align="center">Easing Functions for C++, C#, Python, Unreal Engine and Unity</h1>
+<h1 align="center">Easing Functions</h1>
 
-*Tempy*
+*Available for C++, C#, Python, Unreal Engine and Unity*
 
 <div align="center">
 
