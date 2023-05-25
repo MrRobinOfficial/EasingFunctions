@@ -1,6 +1,6 @@
 <!-- markdownlint-disable-next-line -->
 <p align="center">
-  <a href="#" rel="noopener" target="_blank"><img width="150" src="resources/Tempy.png" alt="Tempy logo"></a>
+  <a href="#" rel="noopener" target="_blank"><img width="128" src="Resources/Icon128.png" alt="Easing Functions logo"></a>
 </p>
 
 <h1 align="center">Easing Functions</h1>
