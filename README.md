@@ -5,7 +5,13 @@
 
 <h1 align="center">Easing Functions</h1>
 
+<div align="center">
+
 *Available for C++, C#, Python, Unreal Engine and Unity*
+  
+</div>
+
+#
 
 <div align="center">
 
