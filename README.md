@@ -20,14 +20,32 @@
 
 </div>
 
-## TODO
-- Add documentation support
-- Make it production ready
-
-#
-
 ## Quick guide
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel efficitur enim. Donec lobortis nibh ac commodo viverra. Curabitur scelerisque mi nisi, ac fringilla ante porta quis. Morbi aliquam posuere mauris. Fusce condimentum est accumsan lorem sagittis convallis. Curabitur egestas, arcu vitae varius tempor, turpis libero aliquam nisi, et gravida leo urna non sem. In vulputate tincidunt lectus, eget blandit tortor. Morbi id luctus urna. Vestibulum in magna at metus ultricies vulputate. Ut ultricies hendrerit tortor sit amet fringilla. Nullam nec suscipit neque. Pellentesque in vulputate lectus.
+This repo is a comprehensive collection of easing functions that can be utilized in different programming languages and game development frameworks. The repository provides a set of easing functions designed to facilitate smooth and gradual transitions between values, commonly used in animation systems, user interface interactions, and other scenarios that require smooth motion.
 
-Nunc consequat diam id turpis imperdiet, id tempus turpis dictum. Vestibulum non rhoncus orci, nec vestibulum elit. Vestibulum eu blandit erat. Duis porta ultrices tellus sit amet efficitur. Morbi dignissim justo pellentesque turpis elementum dapibus. Vivamus rutrum ligula et elementum viverra. Maecenas blandit varius purus a faucibus. Aenean leo tellus, lacinia et nisl sed, iaculis sodales ipsum. Aenean sollicitudin, libero ac viverra pellentesque, odio odio rhoncus turpis, eu mattis ligula dolor ut risus. Vivamus tincidunt nisl vitae nunc aliquet pulvinar ac quis nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed pharetra lacus aliquet porttitor tempus.
+Benefits and Use Cases:
+- Smooth Transitions: The easing functions provided in this repository enable developers to achieve smooth and gradual transitions between values, allowing for more visually appealing animations and movements.
+- Animation Systems: The easing functions can be integrated into animation systems to control the interpolation between keyframes, resulting in more natural and fluid animations.
+- User Interface Interactions: These easing functions can enhance user interface interactions by providing smooth transitions in response to user input, such as button clicks or slider adjustments.
+- Game Development: The repository's support for Unreal Engine and Unity makes it valuable for game developers who want to incorporate smooth motion and animations into their games.
+
+## Examples
+
+### C# and Unity
+
+```csharp
+int x = 0;
+```
+
+### C++ and Unreal
+
+```cpp
+int32 x = 0;
+```
+
+### Python
+
+```python
+x = 0;
+```
