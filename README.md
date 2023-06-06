@@ -18,6 +18,9 @@
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mrrobinofficial/easing/blob/HEAD/LICENSE.txt)
 ![maintenance-status](https://img.shields.io/badge/maintenance-as--is-yellow.svg)
 
+[*Original Creator - cjddmut*](https://github.com/cjddmut)  
+[*Original Gist - Easing Functions for Unity3D*](https://gist.github.com/cjddmut/d789b9eb78216998e95c)
+
 </div>
 
 ## Quick guide
