@@ -246,7 +246,7 @@ class EasingFunction:
         Eases in using math.sin.
         """
         t = min(max(t, 0.0), 1.0)
-        value /= 0.5
+        t /= 0.5
         end -= start
         if t < 1.0: return end * 0.5 * math.pow(2.0, 10.0 * (t - 1.0)) + start
         t = t - 1
